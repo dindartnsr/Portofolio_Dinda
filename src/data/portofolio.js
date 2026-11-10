@@ -148,7 +148,7 @@ export const skills = [
     category: "Social Media",
     description:
       "Konten yang diciptakan untuk menarik perhatian dan melibatkan audiens di platform media sosial.",
-    tags: ["Social Media", "Content Writing", "Visual Design"],
+    tags: ["Social Media", "Content Writingg", "Visual Design"],
     link: "#",
     image: "src/assets/app-6.jpg",
     color:"from-blue-500 to-cyan-400",

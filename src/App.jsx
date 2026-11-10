@@ -1,7 +1,7 @@
 import About from "./components/About";
 import Navbar from "./components/Navbar";
 import Hero from "./components/hero";
-import Skills from "./components/skills"; 
+import Skills from "./components/Skills"; 
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import {profile, skills, projects, socials} from "./data/portofolio";
