@@ -110,7 +110,7 @@ export const skills = [
     id: 3,
     title: "Desain Interface Hotel Kita Bersama",
     description:
-      "Aplikasi Hotel Kita Bersama luxuryadalah aplikasi yang dirancang untuk membantu pengguna menemukan dan memesan kamar hotel dari berbagai lokasi.",
+      "Aplikasi Hotel Kita Bersama luxury adalah aplikasi yang dirancang untuk membantu pengguna menemukan dan memesan kamar hotel dari berbagai lokasi.",
     category: "UI/UX Design Website",
     tags: ["Design", "User Interface", "Prototyping", "Website"],
     link: "#",
@@ -139,6 +139,18 @@ export const skills = [
     tags: ["Photography", "Nature", "Portrait"],
     link: "#",
     image: "src/assets/app-5.jpg",
+    color:"from-blue-500 to-cyan-400",
+  },
+
+{
+    id: 6,
+    title: "Content Creation",
+    category: "Social Media",
+    description:
+      "Konten yang diciptakan untuk menarik perhatian dan melibatkan audiens di platform media sosial.",
+    tags: ["Social Media", "Content Writing", "Visual Design"],
+    link: "#",
+    image: "src/assets/app-6.jpg",
     color:"from-blue-500 to-cyan-400",
   }
 
