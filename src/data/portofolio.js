@@ -122,7 +122,7 @@ export const skills = [
     id: 4,
     title: "Photography Product",
     description:
-      "Photography Product.",
+      "Photography Product adalah hasil karya fotografi yang menampilkan keindahan produk dan momen-momen yang memukau. Setiap foto diambil dengan perhatian terhadap detail, komposisi, dan pencahayaan untuk menciptakan visual yang menarik dan menginspirasi.",
     category: "UI/UX Design Website",
     tags: ["Design", "User Interface", "Prototyping", "Website"],
     link: "#",
@@ -133,17 +133,14 @@ export const skills = [
 {
     id: 5,
     title: "Photography",
+    category: "Photography",
     description:
-      "Aplikasi Hotel Kita Bersama luxuryadalah aplikasi yang dirancang untuk membantu pengguna menemukan dan memesan kamar hotel dari berbagai lokasi.",
-    category: "UI/UX Design Website",
-    tags: ["Design", "User Interface", "Prototyping", "Website"],
+      "Hasil karya fotografi yang menampilkan keindahan alam dan momen-momen yang memukau. Setiap foto diambil dengan perhatian terhadap detail, komposisi, dan pencahayaan untuk menciptakan visual yang menarik dan menginspirasi.",
+    tags: ["Photography", "Nature", "Portrait"],
     link: "#",
     image: "src/assets/app-5.jpg",
-    color: "from-blue-500 to-cyan-400",
-  },
-
-
-
+    color:"from-blue-500 to-cyan-400",
+  }
 
 ]
 
@@ -152,7 +149,7 @@ export const socials = [
   {
     label: "LinkedIn",
     handle: "Dinda Ratna Sari",
-    url: "https://www.linkedin.com/in/nida-khairunnisa-kusumawardhani-192b59363",
+    url: "https://www.linkedin.com/in/dindaratnasari/",
     icon: FaLinkedinIn,
     color: "group-hover:bg-sky-700",
   },
